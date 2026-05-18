@@ -10,7 +10,7 @@ This repository contains analytical scripts and processed datasets related to th
 - Processed data and supplementary materials
 
 ## Software
-- R version 4.x
+- RStudio 2026.04.0 Build 526 (Posit Software, PBC).
 - Bioconductor packages
 
 ## Author
