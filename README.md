@@ -34,4 +34,4 @@ This repository contains analytical scripts and processed datasets related to tr
 
 ## Author
 
-Sergio Silva
+Anderson Oliveira Santos
